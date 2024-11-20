@@ -12,7 +12,7 @@ function Summary() {
         <p className="text-gray-500 mt-1 font-bold" >2024</p>
         <ul className="mt-2 space-y-2 text-gray-700 list-disc pl-5">
           <li>Experienced software developer proficient in full-stack development, with experienced in building chatbots, fine-tuning AI models, and developing APIs and web applications. Strong background in computer science and technology</li>
-          
+
         </ul>
       </div>
     </div>
