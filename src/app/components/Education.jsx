@@ -10,13 +10,13 @@ function Education() {
       <div className="bg-white p-6 rounded-lg shadow-md hover:transform hover:translate-y-[-10px] hover:shadow-lg transition-all duration-300">
         <h3 className="text-xl font-bold mb-2">3rd year of Computer Engineering Faculty</h3>
         <p className="text-gray-600">Khon Kaen University</p>
-        <p className="text-gray-500">GPAX: 2.99</p>
+        {/* <p className="text-gray-500">GPAX: 2.99</p> */}
         <p className="text-gray-500 mt-1 font-bold ">2022-Now</p>
       </div>
       <div className="bg-white p-6 rounded-lg shadow-md hover:transform hover:translate-y-[-10px] hover:shadow-lg transition-all duration-300">
   <h3 className="text-xl font-bold mb-2">NAKAESAMAMAKITTAYA SCHOOL</h3>
   <p className="text-gray-600">Nakhon Phanom</p>
-  <p className="text-gray-500">GPAX: 3.97</p>
+  {/* <p className="text-gray-500">GPAX: 3.97</p> */}
   <p className="text-gray-500 mt-1 font-bold">2016-2022</p>
 </div>
 
